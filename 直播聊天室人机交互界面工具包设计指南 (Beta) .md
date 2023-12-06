@@ -21,7 +21,7 @@ Design Guide of Live Stream Chat UIkit(Beta)
 圆柱体的高为亮度（Lightness），起始点为0（纯黑色），中心点是50(标准色,)，结束点为100(纯白色)。
 
 1.1.1.3.模型概览：
-![图片(/Users/hanxiaojiang/Documents/ChatUIkit/Docimg/cruk1113.png)
+![图片(https://github.com/StevieJiang/ChatUIkit/blob/main/cruk1113.png?raw=true)
 
 1.1.2.三种主题色（Theme Color）的色彩规范：
 
